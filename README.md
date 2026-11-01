@@ -3,7 +3,7 @@
 A modern, responsive landing page for a barbershop, built to showcase services, pricing, and contact details.
 
 ## 🚀 Live Demo
-*https://barber-landing-page-kappa.vercel.app*
+*See the [live demo](https://barber-landing-page-kappa.vercel.app)*
 
 ## 🛠️ Built With
 - **HTML5** – Semantic structure
